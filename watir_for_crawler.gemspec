@@ -5,7 +5,7 @@ require 'watir_for_crawler/version'
 Gem::Specification.new do |s|
   s.name        = 'watir-for-crawler'
   s.version     = WatirForCrawler::VERSION
-  s.date        = '2010-04-28'
+  s.date        = '2019-04-28'
   s.summary     = "Simple Gem Using Watir For Phantom Crawler"
   s.description = "Simple Gem Using Watir For Phantom Crawler"
   s.authors     = ["Bui Dinh Khanh"]
