@@ -18,5 +18,9 @@ module WatirForCrawler
       Rails.logger.info "close browser" 
       browser.close
     end
+
+    def to_html
+      browser.html
+    end
   end
 end
