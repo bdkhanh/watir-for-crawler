@@ -12,6 +12,7 @@ $ bundle
 ## Usage
 
 ```ruby
+  require 'watir_for_crawler'
   browser = WatirForCrawler::Browser.new('your url')
   # You can use nokogiri to crawl
   # Nokogiri::HTML(browser.to_html)
