@@ -13,6 +13,7 @@ Gem::Specification.new do |s|
   s.files       = ["lib/watir_for_crawler.rb"]
   s.require_paths = ['lib']
   s.license     = 'MIT'
+  s.homepage    = 'https://github.com/bdkhanh/watir-for-crawler'
   s.add_runtime_dependency 'watir', '~> 6.16', '>= 6.16.5'
   s.add_runtime_dependency 'webdrivers', '~> 4.0'
   # s.add_runtime_dependency 'capybara'
