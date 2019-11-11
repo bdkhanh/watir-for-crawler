@@ -3,7 +3,7 @@ lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'watir_for_crawler/version'
 Gem::Specification.new do |s|
-  s.name        = 'watir_for_crawler'
+  s.name        = 'watir-for-crawler'
   s.version     = WatirForCrawler::VERSION
   s.date        = '2010-04-28'
   s.summary     = "Simple Gem Using Watir For Phantom Crawler"
