@@ -3,7 +3,7 @@ A simple way to use Watir for Phantom Crawler
 ## Installation
 Add this gem to your Gemfile
 ```ruby
-gem 'watir-for-crawler', git: 'https://github.com/bdkhanh/watir-for-crawler.git'
+gem 'watir-for-crawler'
 ```
 And then execute:
 ```bash
